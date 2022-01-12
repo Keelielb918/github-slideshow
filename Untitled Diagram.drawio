@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T19:58:28.293Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="sIppLMKZhs13GZxOO1T8" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T19:59:12.020Z" agent="5.0 (X11; CrOS x86_64 14268.67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.111 Safari/537.36" etag="fypiauXaTYzCSBxouPRc" version="16.2.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="PFe-NG3plmu13VJTyOM--6" value="Button A is pressed" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFe-NG3plmu13VJTyOM--7" value="Play Melody" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="140" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
